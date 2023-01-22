@@ -1,11 +1,11 @@
 :root {
-	--accent-color: hsl(256, 60%, 40%);
-	--accent-color-2: hsl(256, 60%, 50%);
-	--accent-color-3: hsl(256, 60%, 30%);
+	--accent-color: hsl(256, 30%, 40%);
+	--accent-color-2: hsl(256, 30%, 50%);
+	--accent-color-3: hsl(256, 30%, 30%);
 	--accent-color-rgb: 51, 179, 204;
 	--link-color: hsl(256, 70%, 60%);
-	--mentioned-background: hsla(256, 60%, 50%, 0.1);
-	--mentioned-hover-background: hsla(256, 60%, 50%, 0.08);
+	--mentioned-background: hsla(256, 30%, 50%, 0.1);
+	--mentioned-hover-background: hsla(256, 30%, 50%, 0.08);
 	--bright-text: hsl(220, 30%, 90%);
 	--header-text: hsl(220, 30%, 70%);
 	--primary-text: hsl(220, 15%, 60%);
